@@ -1,7 +1,7 @@
 #Nomard Coder clone
 
 Zoom clone using WebRTC and Websockets
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=node&logoColor=#339933">
+<img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node&logoColor=#339933">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 22.01.28 <br>
