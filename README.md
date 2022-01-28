@@ -5,7 +5,7 @@ Zoom clone using WebRTC and Websockets<br>
 <img src="https://img.shields.io/badge/NodeMon-black?style=for-the-badge&logo=Nodemon&logoColor=white">
 <img src="https://img.shields.io/badge/Express-red?style=for-the-badge&logo=Express&logoColor=green">
 <img src="https://img.shields.io/badge/socket.io-blue?style=for-the-badge&logo=socket.io&logoColor=black">
-
+<img src="https://img.shields.io/badge/pug-brown?style=for-the-badge&logo=pug&logoColor=black">
 22.01.28 <br>
 #0 프로젝트 세팅   <br>
 #1 Websocket 이용 간단한 채팅프로그램 구현 <br>
