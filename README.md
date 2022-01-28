@@ -4,5 +4,5 @@ Zoom clone using WebRTC and Websockets
 
 
 22.01.28 <br>
-#0 세팅   <br>
+#0 프로젝트 세팅   <br>
 #1 Websocket 구현 <br>
