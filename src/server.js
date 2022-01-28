@@ -17,5 +17,20 @@ const wss = new WebSocket.Server({server});
 function handleConnection(socket) {
     console.log(socket);
 }
-wss.on("connection", handleConnection);
-server.listen(3000, handleListen);
+function onSocketClose() {
+    console.log("Disconnected from the Browser ❌");	 
+}
+
+const sockets = [];
+
+wss.on("connection", (socket) => {
+    sockets.push(socket);
+    console.log("Connected to Browser ✅");
+    socket.on("close", onSocketClose);
+    socket.on("message", (message) => {
+        message = message.toString("utf-8")
+      sockets.forEach((aSocket) => aSocket.send(message));
+    });
+  });
+  
+  server.listen(3000, handleListen);
