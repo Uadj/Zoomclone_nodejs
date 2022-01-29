@@ -2,7 +2,6 @@
 
 Zoom clone using WebRTC and Websockets<br>
 <img src="https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=NodeJs&logoColor=#339933">
-<img src="https://img.shields.io/badge/NodeMon-black?style=for-the-badge&logo=Nodemon&logoColor=white">
 <img src="https://img.shields.io/badge/socket.io-blue?style=for-the-badge&logo=socket.io&logoColor=black">
 <img src="https://img.shields.io/badge/pug-brown?style=for-the-badge&logo=pug&logoColor=black"><br>
 22.01.28 <br>
