@@ -8,4 +8,4 @@ Zoom clone using WebRTC and Websockets<br>
 22.01.28 <br>
 #0 프로젝트 세팅   <br>
 #1 Websocket 이용 간단한 채팅프로그램 구현 <br>
-#2 WebSocket 대신 SocketIO이용 <br>
+#2 WebSocket 대신 SocketIO이용 채팅프로그램 구현 <br>
